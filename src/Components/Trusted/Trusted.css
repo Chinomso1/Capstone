@@ -1,0 +1,18 @@
+.trusted{
+    margin-top: 60px;
+    display: grid;
+    place-items: center;
+}
+.trusted_header{
+    top: 10px;
+    font-size: 50px;
+    text-align:center;
+    /* justify-content: space-between; */
+}
+.trusted_img{
+    display: flex;
+    gap: 30px;
+}
+.trusted_img .logo{
+    width: 160px;
+}
